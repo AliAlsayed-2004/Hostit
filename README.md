@@ -82,16 +82,16 @@ Welcome to **Hostit**, a sleek and modern web hosting landing page designed to c
 ## 📸 Screenshots
 
 ### 🖼️ Landing Page
-![Landing Page](images/slider-img.png)
+![Landing Page](assets/images/slider-img.png)
 
 ### 🖼️ Services Section
-![Services Section](images/s1.png)
+![Services Section](assets/images/s1.png)
 
 ### 🖼️ About Us Section
-![About Us Section](images/about-img.png)
+![About Us Section](assets/images/about-img.png)
 
 ### 🖼️ Pricing Section
-![Pricing Section](images/s3.png)
+![Pricing Section](assets/images/s3.png)
 
 ---
 
