@@ -44,3 +44,17 @@ $('.team_carousel').owlCarousel({
         }
     }
 })
+
+// Smooth scroll for sections
+$(document).ready(function () {
+    $('a[href^="#"]').on('click', function (event) {
+        event.preventDefault();
+
+        const target = $($.attr(this, 'href'));
+        if (target.length) {
+            $('html, body').animate({
+                scrollTop: target.offset().top
+            }, 500);
+        }
+    });
+});
