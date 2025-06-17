@@ -1,0 +1,15 @@
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Live Server & temp files
+*.tmp
+*.temp
+
+# Build output
+dist/
+build/
